@@ -1,2 +1,2 @@
-# Responsive Welcome, Login, and Sign up page - Flutter UI
+# Responsive Welcome, Login, and Sign up page , Logout - Flutter
 
